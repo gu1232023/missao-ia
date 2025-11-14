@@ -4,10 +4,10 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
-const perguntas = [
+const perguntas = [ 
     {
         enunciado: "Pergunta 1",
-        alternativas: [
+        alternativas: [    Quem é você?
             "Alternativa 1",
             "Alternativa 2"
         ]
